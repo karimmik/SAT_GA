@@ -2,7 +2,7 @@
 Implementation of SAT Evolution Algorithm in Python. For all details see documentation/karimmik_SAT_GA.pdf
 
 ## Problem
-3SAT instance with weighted variables. Weight count if variable has True value. Need to find heaviest configuration of variables values to solve instance.
+3SAT instance with weighted variables. Weight count if variable has True value. Need to find heaviest configuration of variables values that solve instance.
 
 ## Documentation and project analysys
 See documentation folder. It is contain:
