@@ -10,4 +10,4 @@ See documentation folder. It is contain:
 - Latex file
 - Sources
 
-The documentation describe the basic principles of a theory and the implementation of the solution to the solution. It also describe the perfomance and quality of solution. In fact it is describe the project more fullful, it is written in Czech language.
+The documentation describe the basic principles of a theory and the implementation of the solution to the problem. It also describe the perfomance and quality of solution.
